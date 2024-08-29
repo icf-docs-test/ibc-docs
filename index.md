@@ -1,6 +1,6 @@
 ---
 layout: page
-title: simple site
+title: ibc-go docs
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
@@ -35,7 +35,7 @@ of a GitHub repository.
 The [GitHub](https://pages.github.com) and
 [Jekyll](https://jekyllrb.com) documentation is great, but I thought it
 would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
+get going immediately with a ibc-go docs. To some readers, what GitHub
 has might be simpler and more direct.  But if you just want to create
 a site like the one you're looking at now, read on.
 
